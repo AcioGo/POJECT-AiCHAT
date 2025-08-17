@@ -4,8 +4,8 @@ spring:
   ai:
     openai:
       # TODO: 上线更新环境变量
-      api-key: sk-102ff067ea654815abbb4329b041d5d6
-      base-url: https://api.deepseek.com/v1
+      api-key:
+      base-url:
       chat:
         options:
           model: deepseek-chat

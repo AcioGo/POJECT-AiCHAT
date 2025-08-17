@@ -1,6 +1,6 @@
-package org.heyi.app.impl;
+package org.heyi.interlocution.impl;
 
-import org.heyi.app.service.ChatService;
+import org.heyi.interlocution.service.ChatService;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

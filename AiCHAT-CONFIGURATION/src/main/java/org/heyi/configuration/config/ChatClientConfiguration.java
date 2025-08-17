@@ -1,6 +1,6 @@
-package org.heyi.app.config;
+package org.heyi.configuration.config;
 
-import org.heyi.app.constant.ChatClientConstant;
+import org.heyi.common.constant.ChatClientConstant;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

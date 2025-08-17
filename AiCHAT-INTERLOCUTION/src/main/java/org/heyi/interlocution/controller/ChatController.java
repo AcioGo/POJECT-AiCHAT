@@ -1,6 +1,6 @@
-package org.heyi.app.controller;
+package org.heyi.interlocution.controller;
 
-import org.heyi.app.constant.ApiServiceConstant;
+import org.heyi.common.constant.ApiServiceConstant;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;

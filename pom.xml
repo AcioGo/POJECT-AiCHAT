@@ -12,6 +12,7 @@
         <module>AiCHAT-CONFIGURATION</module>
         <module>AiCHAT-INTERLOCUTION</module>
         <module>AiCHAT-COMMON</module>
+        <module>AiCHAT-REQUEST</module>
     </modules>
 
     <parent>

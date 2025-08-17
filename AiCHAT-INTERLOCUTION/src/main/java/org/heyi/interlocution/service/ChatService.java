@@ -1,4 +1,4 @@
-package org.heyi.app.service;
+package org.heyi.interlocution.service;
 
 import reactor.core.publisher.Flux;
 

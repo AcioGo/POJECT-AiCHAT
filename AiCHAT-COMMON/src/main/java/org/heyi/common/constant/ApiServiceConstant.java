@@ -1,4 +1,4 @@
-package org.heyi.app.constant;
+package org.heyi.common.constant;
 
 public interface ApiServiceConstant {
     String PREFIX = "/api-server/v1";
