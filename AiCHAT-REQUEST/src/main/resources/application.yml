@@ -1,2 +1,13 @@
 server:
   port: 8231
+
+http-client:
+  server:
+    read-timeout: 10000
+    connect-timeout: 5000
+document:
+  api:
+    base-url: http://127.0.0.1:11434
+    model: deepseek-r1:32b
+    max-tokens: 2048
+    temperature: 1
